@@ -4,8 +4,7 @@
 A very useful functionality was added to OpenCV’s DNN module: a Tensorflow net importer.
 
 Where the function has the following format:
-```
-python
+```python
 cv2.dnn.readNetFromTensorflow('frozen_inference_graph.pb', 'graph.pbtxt')
 ```
 
