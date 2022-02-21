@@ -8,7 +8,7 @@
 ssd_mobilenet_v1_coco_2017_11_17
 *.pbtxt
 *.gz
-
+/venv
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
