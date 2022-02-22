@@ -1,7 +1,7 @@
 # How to load Tensorflow models with OpenCV
 ## Download and use the Model
 
-A very useful functionality was added to OpenCV’s DNN module: a Tensorflow net importer.
+A very useful functionality was added to OpenCV’s DNN module: a [Tensorflow](https://docs.opencv.org/3.4/d6/d0f/group__dnn.html#gad820b280978d06773234ba6841e77e8d) net importer.
 
 Where the function has the following format:
 ```python
