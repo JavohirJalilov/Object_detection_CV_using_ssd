@@ -10,3 +10,7 @@ Test data\
 
 Prediction data\
 ![data](https://github.com/JavohirJalilov/Object_detection_CV_using_ssd/blob/master/predict_data/prediction.jpg)
+
+The predict was through by telegram\
+![predict data 2](https://github.com/JavohirJalilov/Object_detection_CV_using_ssd/blob/master/predict_data/telegram_app/tg_predict_1.jpg)
+![predict data 2](https://github.com/JavohirJalilov/Object_detection_CV_using_ssd/blob/master/predict_data/telegram_app/tg_predict_2.jpg)
