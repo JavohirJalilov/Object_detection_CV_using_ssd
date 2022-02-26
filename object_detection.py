@@ -20,6 +20,6 @@ def predict(frame):
             bottom = detection[6] * rows
 
             #draw a red rectangle around detected objects
-            cv2.rectangle(frame, (int(left), int(top)), (int(right), int(bottom)), (0, 0, 255), thickness=2)
+            cv2.rectangle(frame, (int(left), int(top)), (int(right), int(bottom)), (0, 0, 255), thickness=1)
 
     return frame
