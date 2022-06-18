@@ -15,7 +15,7 @@ while True:
     # predict_frame = cv2.resize(predict_frame, (h//2,w//2))
     cv2.imshow('frame',predict_frame)
 
-    if cv2.waitKey(0) == 27:
+    if cv2.waitKey(33) == ord('q'):
         break
 
 cv2.release()
